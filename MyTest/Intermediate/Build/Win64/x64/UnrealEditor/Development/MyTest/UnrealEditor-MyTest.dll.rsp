@@ -1,0 +1,93 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"..\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG:FULL
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/d2:-ExtendedWarningInfo
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/ALTERNATENAME:__imp___std_init_once_begin_initialize=__imp_InitOnceBeginInitialize
+/ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN:6
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\MyTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\BaseChunk.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\Chunk.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\ChunkMeshData.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\ChunkWorld.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\GenerateTerrain.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTest.init.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestCharacter.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestGameMode.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\BaseChunk.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\Chunk.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\ChunkMeshData.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\ChunkWorld.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\Enums.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\GenerateTerrain.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTest.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestCharacter.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestGameMode.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\Default.rc2.res"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputCore\UnrealEditor-InputCore.lib"
+"..\Plugins\EnhancedInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\EnhancedInput\UnrealEditor-EnhancedInput.lib"
+"..\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProceduralMeshComponent\UnrealEditor-ProceduralMeshComponent.lib"
+"..\Plugins\Marketplace\FastNoiseGenerator\Intermediate\Build\Win64\x64\UnrealEditor\Development\FastNoise\UnrealEditor-FastNoise.lib"
+"..\Plugins\Marketplace\FastNoiseGenerator\Intermediate\Build\Win64\x64\UnrealEditor\Development\FastNoiseGenerator\UnrealEditor-FastNoiseGenerator.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"synchronization.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"C:\UnrealEngine\Unreal Projects\MyTest\Binaries\Win64\UnrealEditor-MyTest.dll"
+/IMPLIB:"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\UnrealEditor-MyTest.sup.lib"
+/PDB:"C:\UnrealEngine\Unreal Projects\MyTest\Binaries\Win64\UnrealEditor-MyTest.pdb"
+/ignore:4078

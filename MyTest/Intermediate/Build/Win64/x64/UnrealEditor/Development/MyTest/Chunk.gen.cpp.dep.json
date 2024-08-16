@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengine\\unreal projects\\mytest\\intermediate\\build\\win64\\unrealeditor\\inc\\mytest\\uht\\chunk.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengine\\unreal projects\\mytest\\intermediate\\build\\win64\\x64\\mytesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealengine\\unreal projects\\mytest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mytest\\definitions.mytest.h",
+            "c:\\unrealengine\\unreal projects\\mytest\\source\\mytest\\chunk.h",
+            "c:\\unrealengine\\unreal projects\\mytest\\source\\mytest\\basechunk.h",
+            "c:\\unrealengine\\unreal projects\\mytest\\source\\mytest\\enums.h",
+            "c:\\unrealengine\\unreal projects\\mytest\\intermediate\\build\\win64\\unrealeditor\\inc\\mytest\\uht\\basechunk.generated.h",
+            "c:\\unrealengine\\unreal projects\\mytest\\source\\mytest\\chunkmeshdata.h",
+            "c:\\unrealengine\\unreal projects\\mytest\\intermediate\\build\\win64\\unrealeditor\\inc\\mytest\\uht\\chunkmeshdata.generated.h",
+            "c:\\unrealengine\\unreal projects\\mytest\\intermediate\\build\\win64\\unrealeditor\\inc\\mytest\\uht\\chunk.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

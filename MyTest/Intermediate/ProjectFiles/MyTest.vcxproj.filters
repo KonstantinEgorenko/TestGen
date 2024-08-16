@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyTest">
+      <UniqueIdentifier>{6F62DA8C-804D-311E-AE6B-A6A50B86DCC1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyTest\BaseChunk.cpp">
+      <Filter>Source\MyTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTest\BaseChunk.h">
+      <Filter>Source\MyTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTest\Chunk.cpp">
+      <Filter>Source\MyTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTest\Chunk.h">
+      <Filter>Source\MyTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTest\ChunkMeshData.cpp">
+      <Filter>Source\MyTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTest\ChunkMeshData.h">
+      <Filter>Source\MyTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTest\ChunkWorld.cpp">
+      <Filter>Source\MyTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTest\ChunkWorld.h">
+      <Filter>Source\MyTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTest\Enums.cpp">
+      <Filter>Source\MyTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTest\Enums.h">
+      <Filter>Source\MyTest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyTest\FastNoiseLite.h">
+      <Filter>Source\MyTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTest\GenerateTerrain.cpp">
+      <Filter>Source\MyTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTest\GenerateTerrain.h">
+      <Filter>Source\MyTest</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MyTest\MyTest.Build.cs">
+      <Filter>Source\MyTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyTest\MyTest.cpp">
+      <Filter>Source\MyTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTest\MyTest.h">
+      <Filter>Source\MyTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTest\MyTestCharacter.cpp">
+      <Filter>Source\MyTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTest\MyTestCharacter.h">
+      <Filter>Source\MyTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyTest\MyTestGameMode.cpp">
+      <Filter>Source\MyTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyTest\MyTestGameMode.h">
+      <Filter>Source\MyTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

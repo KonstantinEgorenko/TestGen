@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\MyTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\BaseChunk.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\Chunk.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\ChunkMeshData.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\ChunkWorld.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\GenerateTerrain.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTest.init.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestCharacter.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestGameMode.gen.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\BaseChunk.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\Chunk.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\ChunkMeshData.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\ChunkWorld.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\Enums.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\GenerateTerrain.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTest.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestCharacter.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestGameMode.cpp.obj"
+"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\Default.rc2.res"
+/OUT:"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\UnrealEditor-MyTest.lib"
