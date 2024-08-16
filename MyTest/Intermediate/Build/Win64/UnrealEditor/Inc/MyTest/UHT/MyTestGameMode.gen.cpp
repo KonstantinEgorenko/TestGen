@@ -78,14 +78,14 @@ AMyTestGameMode::~AMyTestGameMode() {}
 // End Class AMyTestGameMode
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_UnrealEngine_Unreal_Projects_MyTest_Source_MyTest_MyTestGameMode_h_Statics
+struct Z_CompiledInDeferFile_FID_Users____________OneDrive_Documents_GitHub_TestGen_MyTest_Source_MyTest_MyTestGameMode_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AMyTestGameMode, AMyTestGameMode::StaticClass, TEXT("AMyTestGameMode"), &Z_Registration_Info_UClass_AMyTestGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyTestGameMode), 2360088641U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealEngine_Unreal_Projects_MyTest_Source_MyTest_MyTestGameMode_h_459928061(TEXT("/Script/MyTest"),
-	Z_CompiledInDeferFile_FID_UnrealEngine_Unreal_Projects_MyTest_Source_MyTest_MyTestGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealEngine_Unreal_Projects_MyTest_Source_MyTest_MyTestGameMode_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users____________OneDrive_Documents_GitHub_TestGen_MyTest_Source_MyTest_MyTestGameMode_h_459928061(TEXT("/Script/MyTest"),
+	Z_CompiledInDeferFile_FID_Users____________OneDrive_Documents_GitHub_TestGen_MyTest_Source_MyTest_MyTestGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users____________OneDrive_Documents_GitHub_TestGen_MyTest_Source_MyTest_MyTestGameMode_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

@@ -1,11 +1,11 @@
-"C:\UnrealEngine\Unreal Projects\MyTest\Source\MyTest\MyTestGameMode.cpp"
-/FI"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\MyTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\Definitions.MyTest.h"
-/Yu"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\MyTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\MyTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestGameMode.cpp.obj"
-/sourceDependencies "C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestGameMode.cpp.dep.json"
-@"C:\UnrealEngine\Unreal Projects\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTest.Shared.rsp"
+"C:\Users\Константин\OneDrive\Documents\GitHub\TestGen\MyTest\Source\MyTest\MyTestGameMode.cpp"
+/FI"C:\Users\Константин\OneDrive\Documents\GitHub\TestGen\MyTest\Intermediate\Build\Win64\x64\MyTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\Константин\OneDrive\Documents\GitHub\TestGen\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\Definitions.MyTest.h"
+/Yu"C:\Users\Константин\OneDrive\Documents\GitHub\TestGen\MyTest\Intermediate\Build\Win64\x64\MyTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\Константин\OneDrive\Documents\GitHub\TestGen\MyTest\Intermediate\Build\Win64\x64\MyTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\Константин\OneDrive\Documents\GitHub\TestGen\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestGameMode.cpp.obj"
+/sourceDependencies "C:\Users\Константин\OneDrive\Documents\GitHub\TestGen\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTestGameMode.cpp.dep.json"
+@"C:\Users\Константин\OneDrive\Documents\GitHub\TestGen\MyTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyTest\MyTest.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
